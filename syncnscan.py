@@ -8,7 +8,7 @@ m = random.randint(100000,999999)
 for x in range(10):
     x+=1
     os.system("pause")
-    os.system("curl http://192.168.0.107:8080/photo.jpg -m 5 -O photo.jpg")
+    os.system("curl http://192.168.0.10:8080/photo.jpg -m 5 -O photo.jpg")
     old_file_name = "photo.jpg"
     new_file_name = str(x + m) + ".jpg"
     if os.path.exists('photo.jpg'):
