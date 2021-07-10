@@ -5,11 +5,11 @@
 ```
 pip install opencv-python
 ```
- Please install python.\n
+ Please install python.
  
- Please install IP webcam from Google Play store.\n
+ Please install IP webcam from Google Play store.
  
- Change the private IP address inside python file to your IP address shown in the app.\m
+ Change the private IP address inside python file to your IP address shown in the app.
  
  Place the python file in the folder that you wish to keep your exam answers.
  
