@@ -17,3 +17,6 @@ pip install opencv-python
 
 # Version 2 update
  enhanced scanned image conversion
+
+# Version 3 update
+ auto capture, implemented motion detection system
